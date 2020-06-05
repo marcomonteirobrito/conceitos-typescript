@@ -6,6 +6,6 @@
 
 Conceitos adquiridos durante aulas ministradas pela rocketseat.com.br
 
-Dúvidas entre em contato pelo <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>Linkedlin  
+Dúvidas entre em contato pelo <h4 align="center">  <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4> 
 
 <h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/marcomonteirobrito" target="_blank">marcomonteirobrito</a> </h4>
